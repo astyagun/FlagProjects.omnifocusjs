@@ -1,0 +1,10 @@
+{
+  "actions": [{"identifier": "flagProjects", "image": "icon.png"}],
+  "author": "Anton Styagun",
+  "defaultLocale": "en",
+  "description": "Toggles flag on selected projects. Even if only a child task of a project is selected.",
+  "identifier": "com.antonstyagun.flagProjects",
+  "targets": ["omnifocus"],
+  "type": "action",
+  "version": "0.1"
+}
